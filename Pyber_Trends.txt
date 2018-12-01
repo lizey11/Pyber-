@@ -1,0 +1,8 @@
+Pyber Analysis
+
+As Chief Data Strategist, I would like to offer my feedback based on my analysis of ridehsaring data which looked at rider information from rural, suburban, and urban populations.
+
+The most notable trend I noticed was that urban populations have the highest number of rides but they also have the lowest fares. This is likely due to the greater population and building density that is typical in large urban environments. Rural cities have far fewer rides, but they cost is significantly higher. Ridesharing services leverage the basic economic principle of supply and demand so this finding was rather intuitive. 
+
+Along these same lines, our pie charts show that the total number of drivers, fares, and the numbers of riders were all the greatest in urban environments making up at least 50% if not more in each category. Given these findings, Pyber could focus on key differentiators in the urban ridesharing market to access the greatest marketshare. Alternatively Pyber could focus on suburban populations which makes up 33% of the total fares. Pyber could potentially grow this market by creating a greater supply of drivers. 
+
